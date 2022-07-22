@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+.title h1{
+	color: deepskyblue;
+	background: black;
+	padding: 20px;
+}
+.Paragraph{
+	margin: 50px;
+}
+textarea{
+	margin: 0px 50px 30px 50px;
+	height: 25vh;
+	width: 40vw;
+	outline: none;
+	padding: 5px;
+	font-size: 16px;
+
+}
+#content{
+	margin: 0px 50px 20px 50px;
+	border: 1px solid black;
+	height: 25vh;
+	width: 40vw;
+	padding: 5px;
+}
+button{
+	margin: 10px  36%;
+	height: 30px;
+	width: 100px;
+	cursor: pointer;
+	background: deepskyblue;
+	color: white;
+	outline: none;
+	border: none;
+}
